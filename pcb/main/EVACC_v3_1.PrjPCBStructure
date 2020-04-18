@@ -1,0 +1,17 @@
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_AC_DC|SchDesignator=U_AC_DC|FileName=AC_DC.SchDoc|SymbolType=Normal|RawFileName=AC_DC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_Buzzor|SchDesignator=U_Buzzor|FileName=Buzzor.SchDoc|SymbolType=Normal|RawFileName=Buzzor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_CT|SchDesignator=U_CT|FileName=CT.SchDoc|SymbolType=Normal|RawFileName=CT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_EEP|SchDesignator=U_EEP|FileName=EEP.SchDoc|SymbolType=Normal|RawFileName=EEP.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_IR_BEAT|SchDesignator=U_IR_BEAT|FileName=IR_BEAT.SchDoc|SymbolType=Normal|RawFileName=IR_BEAT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_LCD_Direct|SchDesignator=U_LCD_Direct|FileName=LCD_Direct.SchDoc|SymbolType=Normal|RawFileName=LCD_Direct.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SCHDOC|SymbolType=Normal|RawFileName=MCU.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_Pilot|SchDesignator=U_Pilot|FileName=Pilot.SchDoc|SymbolType=Normal|RawFileName=Pilot.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_Power1|SchDesignator=U_Power1|FileName=Power1.SchDoc|SymbolType=Normal|RawFileName=Power1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_Power2|SchDesignator=U_Power2|FileName=Power2.SchDoc|SymbolType=Normal|RawFileName=Power2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_Relays|SchDesignator=U_Relays|FileName=Relays.SchDoc|SymbolType=Normal|RawFileName=Relays.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_RFID|SchDesignator=U_RFID|FileName=RFID.SchDoc|SymbolType=Normal|RawFileName=RFID.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_Sockets|SchDesignator=U_Sockets|FileName=Sockets.SchDoc|SymbolType=Normal|RawFileName=Sockets.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_TempSensor|SchDesignator=U_TempSensor|FileName=TempSensor.SchDoc|SymbolType=Normal|RawFileName=TempSensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SubProject|ProjectPath=MMBT3906
+Record=SubProject|ProjectPath=MMBT3906
+Record=TopLevelDocument|FileName=layout.SchDoc

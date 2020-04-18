@@ -1,0 +1,12 @@
+device JWT
+{
+  "accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJwYXlsb2FkIjp7ImEiOls0LDUsNiw4LDldLCJlIjozMDk4NzQzNjM5NzA5LCJ0IjoxLCJ1IjoyLCJuIjpbIjIiXSwiZHQiOlsiOSJdfX0.zF7iG7Ez3ZqpJ-qyRViZSmP_UF_wmV6-d42Wx5q2TWM",
+  "refreshToken": "eyJhbGciOiJIUzI1NiJ9.eyJwYXlsb2FkIjp7ImEiOls0LDUsNiw4LDldLCJlIjozMDk4NzQzNjM5NzA5LCJ0IjowLCJ1IjoyLCJuIjpbIjIiXSwiZHQiOlsiOSJdfX0.SkNnXStPz9wPR4rA_UT3jspL0neTWLARDo0dJRbZHn8"
+}
+
+client JWT
+{
+  "accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJwYXlsb2FkIjp7ImEiOlsxNywzLDQsNiw5XSwiZSI6MzAzOTQxNzYxMTM2MywidCI6MSwidSI6MTI5NywibiI6WyIxMjk3Il0sImR0IjpbIioiXX19.mHPZFLPU-XL4qQj9vxt490c71bsf2XS2QDmX3L-PSA4",
+  "refreshToken": "eyJhbGciOiJIUzI1NiJ9.eyJwYXlsb2FkIjp7ImEiOlsxNywzLDQsNiw5XSwiZSI6MzAzOTQxNzYxMTM2MywidCI6MCwidSI6MTI5NywibiI6WyIxMjk3Il0sImR0IjpbIioiXX19.ZYqV4MGvR9iBcjAFxkN81QBiQR4XabTrUj4kAGlU3bQ"
+}
+
