@@ -1,0 +1,10 @@
+Record=TopLevelDocument|FileName=layout.SchDoc
+Record=SubProject|ProjectPath=STM32F105RX
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_Adaptor|SchDesignator=U_Adaptor|FileName=Adaptor.SchDoc|SymbolType=Normal|RawFileName=Adaptor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_buttons|SchDesignator=U_buttons|FileName=buttons.SchDoc|SymbolType=Normal|RawFileName=buttons.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_Cable|SchDesignator=U_Cable|FileName=Cable.SchDoc|SymbolType=Normal|RawFileName=Cable.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_Car|SchDesignator=U_Car|FileName=Car.SchDoc|SymbolType=Normal|RawFileName=Car.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_LCD|SchDesignator=U_LCD|FileName=LCD.SchDoc|SymbolType=Normal|RawFileName=LCD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SubProject|ProjectPath=MMBT3906

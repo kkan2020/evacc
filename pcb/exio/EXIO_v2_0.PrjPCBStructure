@@ -1,0 +1,4 @@
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_GPRS|SchDesignator=U_GPRS|FileName=GPRS.SchDoc|SymbolType=Normal|RawFileName=GPRS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_socket|SchDesignator=U_socket|FileName=socket.SchDoc|SymbolType=Normal|RawFileName=socket.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=layout.SchDoc|Designator=U_wifi|SchDesignator=U_wifi|FileName=wifi.SchDoc|SymbolType=Normal|RawFileName=wifi.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=layout.SchDoc
