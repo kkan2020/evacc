@@ -1,6 +1,9 @@
 # evacc
 Electric Vehicle AC Charger Controller
 
+![product image](/images/charger.png)
+Format: ![Alt Text](url)
+
 This is a hardware and software design of a full featured charger controller for electric vehicle.
 
 The design had taken private and commercial use cases into consideration. so, it can work in
