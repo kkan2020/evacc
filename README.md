@@ -2,7 +2,6 @@
 Electric Vehicle AC Charger Controller
 
 ![product image](/images/charger.png)
-Format: ![Alt Text](url)
 
 This is a hardware and software design of a full featured charger controller for electric vehicle.
 
